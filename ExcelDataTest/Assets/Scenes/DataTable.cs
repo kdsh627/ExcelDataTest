@@ -19,7 +19,7 @@ public class MissionData
 {
     public int mission_id;
     public int user_id;
-    public MissionType mission_type;
+    public MissionType misson_type;
     public string description;
     public RewardType reward_type;
     public int reward_amount;

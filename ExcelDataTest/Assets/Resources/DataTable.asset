@@ -15,7 +15,7 @@ MonoBehaviour:
   Sheet1:
   - mission_id: 1
     user_id: 1
-    mission_type: 0
+    misson_type: 0
     description: I Want To Home
     reward_type: 0
     reward_amount: 5
@@ -23,7 +23,7 @@ MonoBehaviour:
     completed_at: 0
   - mission_id: 2
     user_id: 2
-    mission_type: 0
+    misson_type: 1
     description: I Hate Development
     reward_type: 1
     reward_amount: 10
